@@ -1,3 +1,27 @@
+body {
+    background-color:#b8f5ff;
+}
+
+.title {
+    color:white;
+    font-size:40px;
+    background-color:lime;
+}
+
+body {
+    font-family:Courier New;
+}
+
 h1 {
-    color:greenyellow
+    font-family:courier;
+}
+
+.center {
+    text-align:center;
+}
+
+#desc {
+    color: white;
+    background-color:navy;
+    font-size:15px;
 }
