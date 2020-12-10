@@ -25,3 +25,32 @@ h1 {
     background-color:navy;
     font-size:15px;
 }
+
+.menu {
+    color:lime;
+   
+}
+.left{
+    text-align:left;
+}
+.right{
+    text-align:right;
+}
+
+.black{
+    color:black;
+}
+
+#morn{
+    background-color:rgb(255, 234, 117)
+}
+#mid{
+    background-color: lawngreen;
+}
+#sunset{
+    background-image: url("https://codehs.com/uploads/e65283763d1dbec4d1ab437845fb63f8");
+    
+}
+#sunset p{
+    color:white
+}
