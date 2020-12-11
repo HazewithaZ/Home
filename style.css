@@ -20,6 +20,17 @@ h1 {
     text-align:center;
 }
 
+.left {
+    text-align:left;
+}
+
+.imagecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 #desc {
     color: white;
     background-color:navy;
